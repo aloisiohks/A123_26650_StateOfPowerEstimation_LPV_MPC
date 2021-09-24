@@ -12,29 +12,27 @@ This repository contains the linear parameter varying (LPV) MPC-based lithium-io
 
 
 <p align="center">
- <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip1.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip1.png" width="900" height="400"/></a>
+ <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip1.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip1.png" width="900" height="500"/></a>
 </p>
 
 <p align="center">
- <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip2.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip2.png" width="900" height="400"/></a>
+ <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip2.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip2.png" width="900" height="500"/></a>
 </p>
 
 <p align="center">
- <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip3.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip3.png" width="900" height="400"/></a>
+ <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip3.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip3.png" width="900" height="500"/></a>
 </p>
 
 <p align="center">
- <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip4.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip4.png" width="900" height="400"/></a>
+ <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip4.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip4.png" width="900" height="500"/></a>
 </p>
 
 <p align="center">
- <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip5.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip5.png" width="900" height="400"/></a>
+ <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip5.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip5.png" width="900" height="500"/></a>
 </p>
 
 <p align="center">
- <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip6.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip6.png" width="900" height="400"/></a>
+ <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip6.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip6.png" width="900" height="500"/></a>
 </p>
 
-<p align="center">
- <a href="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip7.png"><img src="https://github.com/aloisiohks/A123_26650_StateOfPowerEstimation_LPV_MPC/blob/main/slides/Snip7.png" width="900" height="400"/></a>
-</p>
+
