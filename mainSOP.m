@@ -1,4 +1,28 @@
 clear all;close all;clc;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This software performs state of power (SOP) estimation using model 
+% predictive control and a coupled electro-thermal model for a cylindrical 
+% cell A123 26650 2.5 Ah (LPF chemistry)
+%
+% Copyright (c) 2021 by Aloisio Kawakita de Souza of the
+% University of Colorado Colorado Springs (UCCS). This work is licensed
+% under a MIT license. It is provided "as is", without express or implied
+% warranty, for educational and informational purposes only.
+%
+% This file is provided as a supplement to: 
+%
+% [1] M. A. Xavier, A. K. de Souza and M. S. Trimboli, "An LPV-MPC Inspired Battery 
+% SOP Estimation Algorithm Using a Coupled Electro-Thermal Model," 2021 
+% American Control Conference (ACC), 2021, pp. 4421-4426, 
+% doi: 10.23919/ACC50511.2021.9483433.
+% 
+% [2] A. K. de Souza, G. Plett and M. S. Trimboli, "A Predictive Modeling and 
+% Control Approach to Improving Lithium-ion Battery Performance in Cells Exhibiting
+% Large Voltage Hysteresis," 20th Advanced Automotive Battery Conference,
+% 2020, DOI: 10.13140/RG.2.2.31324.92804.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+
 
 addpath('./functions');
 
