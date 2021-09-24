@@ -1,6 +1,6 @@
 # State of Power Estimation using LPV Model Predictive Control approach and a Coupled Electro-Thermal Model (A123 26650)
 
-If you use this software in your work please cite the thesis below or reference this repository using the following DOI
+If you use this software in your work please cite the reference [1] below or this repository using the following DOI
 <a href="https://zenodo.org/badge/latestdoi/409797545"><img src="https://zenodo.org/badge/409797545.svg" alt="DOI"></a>
 
 This repository contains the linear parameter varying (LPV) MPC-based lithium-ion battery state of power estimation algorithm for the A123 26650 m1b cell developed and used in the following publication
