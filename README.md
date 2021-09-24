@@ -1,4 +1,4 @@
-# A123_26650_StateOfPowerEstimation_LPV_MPC
+# State of Power Estimation using LPV Model Predictive Control approach and a Coupled Electro-Thermal Model (A123 26650)
 
 If you use this software in your work please cite the thesis below or reference this repository using the following DOI
 <a href="https://zenodo.org/badge/latestdoi/409797545"><img src="https://zenodo.org/badge/409797545.svg" alt="DOI"></a>
